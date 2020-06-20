@@ -19,7 +19,7 @@ This is all planning, I don't even know if I have the programming ability to inc
   * (Maybe) A Usifia dimension where generated structures that resemble those in the book may be found, e.g. Wildlandes biome, Neurazian gate? Along with a strictly sized Neurazia dimension (similar to pre 1.9 End's size limit) and naturally generated 'Norikithintes Portals' in the Overworld dimension?
   * Nether + End will be considered not part of the Elkloria mod and as such some materials may need to be obtained from them but they themselves will not play a major role. However, Nether may be considered a connection to the demon world
   * (Maybe) A demon world and faery realm that can be traveled to or originated in through race selection with their own mobs and structures (maybe the faery realm can be procedurally generated and have the Ivory and Red kingdoms?)
-  * (Maybe) The oceanic dimension of Typhon, the world of the dead, the spirit world, Alinusia?
+  * (Maybe) The oceanic realm of Typhon, the world of the dead, the spirit world, planet Alinusia? (all as other dimensions)
   * (Maybe) The elemental kingdoms generated in terrain generation in Elkloria, perhaps in a specific area, with their own laws and whatnot
   * (Maybe) Elklorian mobs, like unicorns and centaurs and sphinges and basilisks and wyverns and other wizard mobs?
   * (Maybe) Deity mobs, spirit mobs, djinn mobs, prophets (somehow), angels, egregores?
