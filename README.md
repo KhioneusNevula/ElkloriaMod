@@ -23,3 +23,4 @@ This is all planning, I don't even know if I have the programming ability to inc
   * (Maybe) The elemental kingdoms generated in terrain generation in Elkloria, perhaps in a specific area, with their own laws and whatnot
   * (Maybe) Elklorian mobs, like unicorns and centaurs and sphinges and basilisks and wyverns and other wizard mobs?
   * (Maybe) Deity mobs, spirit mobs, djinn mobs, prophets (somehow), angels, egregores?
+  * (Maybe) Boss mobs?
