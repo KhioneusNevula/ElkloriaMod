@@ -1,9 +1,9 @@
 # ElkloriaMod
-This mod is meant to be a Minecraftization of Elkloria, the book series that I, Rishab Borah, wrote.
-This description may contain spoilers, as it is intended to be as accurate to Elkloria as possible.
-Elkloria has a huge and complex magical world, and as such this mod couldn't do justice to everything I've put in it.
-I will try to include the key points below, however.
-This is all planning, I don't even know if I have the programming ability to include all of it:
+This mod is meant to be a Minecraftization of Elkloria, the book series that I, Rishab Borah, wrote.<br>
+This description may contain spoilers (for the mod and the series itself), as it is intended to be as accurate to Elkloria as possible.<br>
+Elkloria has a huge and complex magical world, and as such this mod couldn't do justice to everything I've put in it.<br>
+I will try to include the key points below, however.<br>
+This is all planning:<br>
 * A spellcasting system. There are 600ish spells in Elkloria, and I'm going to create a system for at least 10 of them to be castable. It's important to note that spells in Elkloria are spoken aloud for <em>good reason</em> and as such I might need to make them somewhat like commands. Additionally there are also the elemental kingdoms which means certain spells have restrictions, for example a mind-wizard can't create huge pools of water except through a lot of long spell-program chanting that takes more power than a water-wizard who simply says a few words and can make a lake.
  * Maybe, a wizard can do /spell <name> and this will "charge" them with the spell. To deploy the spell, they just press a button/right click something/idk. They can right click/whatever a second time to recast the spell.
  * Probably a training system, too, so that wizards need to cast a spell a few times before it works for them consistently
