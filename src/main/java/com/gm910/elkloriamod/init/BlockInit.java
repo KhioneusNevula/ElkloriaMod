@@ -1,6 +1,7 @@
 package com.gm910.elkloriamod.init;
 
 import com.gm910.elkloriamod.Elkloria;
+import com.gm910.elkloriamod.blocks.LandvaetBlock;
 import com.gm910.elkloriamod.blocks.ModBlock.BlockRegistryObject;
 import com.gm910.elkloriamod.blocks.NorikithintesPortalBlock;
 
@@ -17,4 +18,7 @@ public final class BlockInit {
 	public static final DeferredRegister<Block> BLOCKS = new DeferredRegister<>(ForgeRegistries.BLOCKS, Elkloria.MODID);
 	
 	public static final RegistryObject<Block> N_PORTAL = (new BlockRegistryObject("norikithintes_portal", () -> new NorikithintesPortalBlock())).makeItem(() -> new Item.Properties().group(ItemGroup.TRANSPORTATION)).createRegistryObject();
+	
+	public static final RegistryObject<Block> LANDVAET = (new BlockRegistryObject("landvaet", () -> new LandvaetBlock())).makeItem(() -> new Item.Properties().group(ItemGroup.MISC)).createRegistryObject();
+
 }
